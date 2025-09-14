@@ -18,7 +18,7 @@
         "banner_ad": "null",
         "banner_ad_action": "null",
         "show_tg": "no",
-        "custom_menu_item": "{\"title\":\"\",\"url\":\"https:\\/\\/t.me\\/cricbd\",\"image_url\":\"\",\"enabled\":true}",
+        "custom_menu_item": "{\"title\":\"Cricbd\",\"url\":\"https:\\/\\/t.me\\/cricbd\",\"image_url\":\"\",\"enabled\":true}",
         "start_ad": null,
         "start_ad_action": null
     }
