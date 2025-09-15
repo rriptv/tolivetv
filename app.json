@@ -17,7 +17,7 @@
         "external_ad_repeat_after": 1,
         "banner_ad": "null",
         "banner_ad_action": "null",
-        "show_tg": "no",
+        "show_tg": "yes",
         "custom_menu_item": "{\"title\":\"Cricbd\",\"url\":\"https:\\/\\/t.me\\/cricbd\",\"image_url\":\"\",\"enabled\":true}",
         "start_ad": null,
         "start_ad_action": null
