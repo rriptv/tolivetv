@@ -6,7 +6,7 @@
         "sports_slug": "https://raw.githubusercontent.com/Drewski2423/DrewLive/refs/heads\\main/DaddyLive.m3u8",
         "telegram_url": "https://t.me/cricbd",
         "web_url": "https://t.me/cricbd",
-        "download_url": "null",
+        "download_url": "https://t.me/cricbd",
         "cric_live_url": "https://m.cricbuzz.com/cricket-match/live-scores",
         "foot_live_url": "https://www.livescore.com/en/",
         "app_version": 1,
@@ -17,8 +17,8 @@
         "external_ad_repeat_after": 1,
         "banner_ad": "null",
         "banner_ad_action": "null",
-        "show_tg": "yes",
-        "custom_menu_item": "{\"title\":\"Cricbd\",\"url\":\"https:\\/\\/t.me\\/cricbd\",\"image_url\":\"\",\"enabled\":true}",
+        "show_tg": "no",
+        "custom_menu_item": "no",
         "start_ad": null,
         "start_ad_action": null
     }
